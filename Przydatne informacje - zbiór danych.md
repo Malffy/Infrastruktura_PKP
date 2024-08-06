@@ -115,7 +115,7 @@ Linki (Oficjalna dokumentacja GLPi):
 ---
 ### DOKUMENT - Instalacja GLPi 1.3 LAB
 
-Poradnik 
+Poradnik instalacji GLPI na Ubuntu
 
 ---
 ### DOKUMENT - Instrukcja deployment wtyczek
