@@ -3,7 +3,6 @@
 [Link do Trello](https://trello.com/invite/b/wi7bfaBH/ATTI8bb8ff84831fa27d67b52dd929e62ef7BB2FF447/pkp-informatyka-siemsonymielsony)
 
 ## Logowanie apache-01
-
 Login: `adminer`  
 Hasło: `!1Olsztyn`  
 `sudo su`  
@@ -17,7 +16,7 @@ Hasło: `!1Olsztyn`
 ---
 ### DOKUMENT - "nazwa", krótki opis zawartości dokumentu lub przydatne dla nas informacje w nim zawarte.
 
-#### JEŚLI OBOK NAZWY JEST (DO WYKONANIA) OZNACZA TO, ŻE MUSIMY PRZEROBIĆ ZADANIA Z DANEGO DOKUMENTU I WSTAWIĆ DOKUMENTACJE NA GITHUBA.
+#### JEŚLI OBOK NAZWY JEST (DO WYKONANIA) OZNACZA TO, ŻE MUSIMY PRZEROBIĆ ZADANIA Z DANEGO DOKUMENTU + NAPISANIE DOKUMENTACJI
 
 ---
 ### DOKUMENT - Case study uslugi transportowe
@@ -80,8 +79,6 @@ Poradnik - procedury Backup i Restore GLPi.
 
 W pliku tym znajdują się również zadania jakie mamy wykonać.
 
-**Zadanie 2,4 i 5** zostało wykonane już przez nas wszystkich.
-
 **Zadanie 1**: Procedura Backup i Restore GLPi.
 
 **Zadanie 2**: Instalacja GLPi Agent dla systemu Windows z MSI.
@@ -118,7 +115,7 @@ Linki (Oficjalna dokumentacja GLPi):
 ---
 ### DOKUMENT - Instalacja GLPi 1.3 LAB
 
-Wszystko stąd jest już zainstalowane na obrazie apache-01
+Poradnik 
 
 ---
 ### DOKUMENT - Instrukcja deployment wtyczek
