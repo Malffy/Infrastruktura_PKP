@@ -1,2 +1,0 @@
-Element 14
-backup & restore - wyłączenie, zrobienie kopii maszyn, włączenie spowrotem
